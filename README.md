@@ -1,3 +1,3 @@
 # dockerbuilder
-Builder for projects with docker in it
+Builder for your projects
 https://hub.docker.com/repository/docker/donthamon/dockerbuild/
