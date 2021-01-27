@@ -1,0 +1,4 @@
+docker pull <NAMEHERE>/<REPO>
+docker run --name <NAMEHERE> -dp <PORTS> -e <ENVIROMENTNAME>=<ARGS> <REPO>
+docker build -t <REPO> .
+docker push -a <REPO>
